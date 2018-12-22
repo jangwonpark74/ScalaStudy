@@ -15,3 +15,4 @@
 
 ## Scala sbt 사용법
 - [twitter sbt 사용법 가이드](https://twitter.github.io/scala_school/ko/sbt.html)
+- [좋은 가이드](http://www.bench87.com/content/7)
