@@ -12,3 +12,6 @@
 
 ## Good Scala Program Examples
 - [S-99](http://aperiodic.net/phil/scala/s-99/)
+
+## Scala sbt 사용법
+- [twitter sbt 사용법 가이드](https://twitter.github.io/scala_school/ko/sbt.html)
