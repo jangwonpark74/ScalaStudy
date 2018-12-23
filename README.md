@@ -23,3 +23,8 @@
 
 ## Google Cloud Spark 사용법
  - [Google Apache Spark ](https://cloud.google.com/dataproc/docs/tutorials/spark-scala?hl=ko)
+
+## Scala Language 
+
+### Trait & Type Conversion
+  - [Trait & Type Conversion ](https://blog.outsider.ne.kr/484)
