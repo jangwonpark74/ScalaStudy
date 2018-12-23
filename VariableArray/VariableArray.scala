@@ -12,6 +12,6 @@ object VariableArray {
     b ++= Array(8, 13, 21)
     println(b)
     b.trimEnd(3)
-    println(b)
-    }
+    println(b.mkString("<<", ",", ">>"))
+  }
 }
