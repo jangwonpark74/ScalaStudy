@@ -6,6 +6,7 @@
 
 ## Simple Tutorial 
 - [Simple Tutorial from Scala.org](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaTutorial.pdf)
+- [Good Scala Tutorial](http://mse-bda.s3-website-eu-west-1.amazonaws.com/lectures/BDA%20Lc05%20ScalaIntroForSpark.pdf)
 
 ## Scala Exercise
 - [Scala exercises.org](https://www.scala-exercises.org/)
@@ -19,3 +20,6 @@
 ## Scala sbt 사용법
 - [twitter sbt 사용법 가이드](https://twitter.github.io/scala_school/ko/sbt.html)
 - [좋은 가이드](http://www.bench87.com/content/7)
+
+## Google Cloud Spark 사용법
+ - [Google Apache Spark ](https://cloud.google.com/dataproc/docs/tutorials/spark-scala?hl=ko)
