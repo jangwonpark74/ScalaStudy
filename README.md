@@ -7,7 +7,7 @@
 ## Simple Tutorial 
 - [Simple Tutorial from Scala.org](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaTutorial.pdf)
 - [Good Scala Tutorial](http://mse-bda.s3-website-eu-west-1.amazonaws.com/lectures/BDA%20Lc05%20ScalaIntroForSpark.pdf)
-
+- [Data-Flair Scala Training](https://data-flair.training/blogs/scala-tutorial/) 
 ## Scala Exercise
 - [Scala exercises.org](https://www.scala-exercises.org/)
 
