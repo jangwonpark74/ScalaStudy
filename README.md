@@ -10,7 +10,7 @@
 - [Data-Flair Scala Training](https://data-flair.training/blogs/scala-tutorial/) 
 
 ### Scala Data Type
- -[Data Type](https://data-flair.training/blogs/scala-data-types/)
+ - [Data Type](https://data-flair.training/blogs/scala-data-types/)
 
 ## Scala Exercise
 - [Scala exercises.org](https://www.scala-exercises.org/)
