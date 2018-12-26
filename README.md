@@ -32,3 +32,6 @@
 
 ### Trait & Type Conversion
   - [Trait & Type Conversion ](https://blog.outsider.ne.kr/484)
+
+## Scala 3.0
+  - [Dotty blog](http://dotty.epfl.ch/blog/index.html)
