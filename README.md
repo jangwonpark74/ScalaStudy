@@ -35,3 +35,4 @@
 
 ## Scala 3.0
   - [Dotty blog](http://dotty.epfl.ch/blog/index.html)
+  - [Online Compiler Scastie](https://scastie.scala-lang.org/)
