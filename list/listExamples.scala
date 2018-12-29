@@ -1,4 +1,7 @@
 
+// For an immutable sequence of objects that share 
+// the same type you can use Scala's List class
+
 object ListExamples {
   def main(args: Array[String]) {
     val a = List(1,1,2,3,5,8)
