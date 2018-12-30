@@ -1,5 +1,9 @@
 # ScalaStudy
 
+## Reading List 
+ - John Hughes's [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+
+
 ## First Scala Programming Example
 
 - [First guide](https://www.journaldev.com/7915/scala-arrays-example)
