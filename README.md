@@ -37,6 +37,9 @@
  - [Dotty blog](http://dotty.epfl.ch/blog/index.html)
  - [Online Compiler Scastie](https://scastie.scala-lang.org/)
 
+## Scala Framework 
+ - [Play Framework](https://www.playframework.com/documentation/2.6.x/Home)
+
 ## Functional Programming in Scala
  - [github for Functional Programming in Scala](https://github.com/fpinscala/fpinscala)
 
