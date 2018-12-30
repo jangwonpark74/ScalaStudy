@@ -21,6 +21,8 @@ object ListExamples {
     val twoThree = List(2, 3)
     // operator :: is right associative operator
     // 1 ;; twoThree is equivalant to twoThree.::(1)
+    //
+    // prepending with :: takes constant time
     val oneTwoThree = 1 :: twoThree
     println(oneTwoThree)
   }
