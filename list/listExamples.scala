@@ -11,5 +11,17 @@ object ListExamples {
     println("a's length = "+a.length)
 
     println("a's reverse="+a.reverse)
+
+    val oneTwo = List(1, 2)
+    val threeFour = List(3, 4)
+    val oneTwoThreeFour = oneTwo ::: threeFour
+
+    println(oneTwo, threeFour, oneTwoThreeFour)
+
+    val twoThree = List(2, 3)
+    // operator :: is right associative operator
+    // 1 ;; twoThree is equivalant to twoThree.::(1)
+    val oneTwoThree = 1 :: twoThree
+    println(oneTwoThree)
   }
 }
