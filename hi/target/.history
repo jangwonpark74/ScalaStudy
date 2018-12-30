@@ -1,0 +1,26 @@
+compile
+run
+session save
+run
+session save
+ls
+exit
+compile
+run
+projects
+project
+help
+settings
+session save
+session help
+session list-all
+session save
+ls
+exit
+compile
+run
+clear
+exit
+compile
+run
+exit
