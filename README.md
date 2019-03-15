@@ -45,6 +45,9 @@
 
 ## Reading List 
  - John Hughes's [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+ 
+## Korea Scala Study Group Meetup
+ - [Code Jam ](https://github.com/codeport/scala/wiki/Code-Jam-짝-프로그래밍)
 
 
 
